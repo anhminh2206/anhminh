@@ -1,0 +1,150 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Oct 2021 22:13:19 at http://localhost/AnhMinh/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/AnhMinh/ -O1 "C:\My Web Sites\helmetbro" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+22:21:33	Error: 	"Method Not Allowed" (405) at link localhost/AnhMinh/xmlrpc.php (from localhost/AnhMinh/)
+22:53:18	Warning: 	Moved Permanently for localhost/AnhMinh/?p=73
+22:53:18	Warning: 	File has moved from localhost/AnhMinh/?p=73 to http://localhost/AnhMinh/gioi-thieu/
+22:53:18	Warning: 	Moved Permanently for localhost/AnhMinh/?p=71
+22:53:18	Warning: 	File has moved from localhost/AnhMinh/?p=71 to http://localhost/AnhMinh/lien-he/
+22:53:23	Warning: 	Moved Permanently for localhost/AnhMinh/?p=14
+22:53:23	Warning: 	File has moved from localhost/AnhMinh/?p=14 to http://localhost/AnhMinh/tai-khoan/
+22:53:23	Warning: 	Moved Permanently for localhost/AnhMinh/?p=12
+22:53:23	Warning: 	File has moved from localhost/AnhMinh/?p=12 to http://localhost/AnhMinh/gio-hang/
+22:55:32	Warning: 	Moved Permanently for localhost/AnhMinh/?p=17
+22:55:32	Warning: 	File has moved from localhost/AnhMinh/?p=17 to http://localhost/AnhMinh/wishlist/
+22:55:32	Warning: 	Moved Permanently for localhost/AnhMinh/?p=15
+22:55:32	Warning: 	File has moved from localhost/AnhMinh/?p=15 to http://localhost/AnhMinh/refund_returns/
+22:55:33	Warning: 	Moved Permanently for localhost/AnhMinh/?p=269
+22:55:33	Warning: 	File has moved from localhost/AnhMinh/?p=269 to http://localhost/AnhMinh/san-pham/gang-tay-511-ngon-cut/
+22:55:43	Warning: 	Moved Permanently for localhost/AnhMinh/?p=213
+22:55:43	Warning: 	File has moved from localhost/AnhMinh/?p=213 to http://localhost/AnhMinh/san-pham/mu%cc%83-ba%cc%89o-hie%cc%89m-grs-a737k/
+22:56:10	Warning: 	Moved Permanently for localhost/AnhMinh/?p=109
+22:56:10	Warning: 	File has moved from localhost/AnhMinh/?p=109 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-royal-m138b/
+22:56:23	Warning: 	Moved Permanently for localhost/AnhMinh/?p=157
+22:56:23	Warning: 	File has moved from localhost/AnhMinh/?p=157 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-bulldog-heli-carbon/
+22:56:34	Warning: 	Moved Permanently for localhost/AnhMinh/?p=315
+22:56:34	Warning: 	File has moved from localhost/AnhMinh/?p=315 to http://localhost/AnhMinh/san-pham/balo-chien-thuat-3d/
+22:56:42	Warning: 	Moved Permanently for localhost/AnhMinh/?p=402
+22:56:42	Warning: 	File has moved from localhost/AnhMinh/?p=402 to http://localhost/AnhMinh/san-pham/balo-pupg/
+22:56:45	Warning: 	Moved Permanently for localhost/AnhMinh/?p=199
+22:56:45	Warning: 	File has moved from localhost/AnhMinh/?p=199 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-bulldog-pug-nua-dau/
+22:56:51	Warning: 	Moved Permanently for localhost/AnhMinh/?p=148
+22:56:51	Warning: 	File has moved from localhost/AnhMinh/?p=148 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-napoli-n099/
+22:56:59	Warning: 	Moved Permanently for localhost/AnhMinh/?p=218
+22:56:59	Warning: 	File has moved from localhost/AnhMinh/?p=218 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-1-2-tem-hinh/
+22:57:07	Warning: 	Moved Permanently for localhost/AnhMinh/?p=114
+22:57:07	Warning: 	File has moved from localhost/AnhMinh/?p=114 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-yohe-977-fullface/
+22:57:15	Warning: 	Moved Permanently for localhost/AnhMinh/?p=224
+22:57:15	Warning: 	File has moved from localhost/AnhMinh/?p=224 to http://localhost/AnhMinh/san-pham/gang-black-hawk-ngon-cut/
+22:57:23	Warning: 	Moved Permanently for localhost/AnhMinh/?p=252
+22:57:23	Warning: 	File has moved from localhost/AnhMinh/?p=252 to http://localhost/AnhMinh/san-pham/gang-oakley-ngon-dai/
+22:57:28	Warning: 	Moved Permanently for localhost/AnhMinh/?p=392
+22:57:28	Warning: 	File has moved from localhost/AnhMinh/?p=392 to http://localhost/AnhMinh/san-pham/balo-taichi-rsb-272-chong-nuoc-tuyet-doi-co-led/
+22:57:45	Warning: 	Moved Permanently for localhost/AnhMinh/?p=19
+22:57:45	Warning: 	File has moved from localhost/AnhMinh/?p=19 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-agu-fullface/
+22:57:51	Warning: 	Moved Permanently for localhost/AnhMinh/?p=397
+22:57:51	Warning: 	File has moved from localhost/AnhMinh/?p=397 to http://localhost/AnhMinh/san-pham/balo-the-north-face-chong-nuoc/
+22:57:58	Warning: 	Moved Permanently for localhost/AnhMinh/?p=104
+22:57:58	Warning: 	File has moved from localhost/AnhMinh/?p=104 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-royal-m136/
+22:58:06	Warning: 	Moved Permanently for localhost/AnhMinh/?p=97
+22:58:06	Warning: 	File has moved from localhost/AnhMinh/?p=97 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-gxt-2017/
+22:58:15	Warning: 	Moved Permanently for localhost/AnhMinh/?p=58
+22:58:15	Warning: 	File has moved from localhost/AnhMinh/?p=58 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-fullface-torc-t18-2-kinh-usa/
+22:58:24	Warning: 	Moved Permanently for localhost/AnhMinh/?p=42
+22:58:24	Warning: 	File has moved from localhost/AnhMinh/?p=42 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-ego-e8-fullface/
+22:58:37	Warning: 	Moved Permanently for localhost/AnhMinh/?p=28
+22:58:37	Warning: 	File has moved from localhost/AnhMinh/?p=28 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-ego-e7/
+22:58:40	Warning: 	Moved Permanently for localhost/AnhMinh/?p=144
+22:58:40	Warning: 	File has moved from localhost/AnhMinh/?p=144 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-royal-m20/
+22:58:45	Warning: 	Moved Permanently for localhost/AnhMinh/?p=163
+22:58:45	Warning: 	File has moved from localhost/AnhMinh/?p=163 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-bulldog-pom/
+22:58:52	Warning: 	Moved Permanently for localhost/AnhMinh/?p=176
+22:58:52	Warning: 	File has moved from localhost/AnhMinh/?p=176 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-bulldog-perro-4u/
+22:58:57	Warning: 	Moved Permanently for localhost/AnhMinh/?p=140
+22:58:57	Warning: 	File has moved from localhost/AnhMinh/?p=140 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-asia-m115/
+22:59:06	Warning: 	Moved Permanently for localhost/AnhMinh/?p=130
+22:59:06	Warning: 	File has moved from localhost/AnhMinh/?p=130 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-3-4-yohe-878/
+22:59:11	Warning: 	Moved Permanently for localhost/AnhMinh/?p=121
+22:59:11	Warning: 	File has moved from localhost/AnhMinh/?p=121 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-3-4-ego-e3/
+22:59:16	Warning: 	Moved Permanently for localhost/AnhMinh/?p=209
+22:59:16	Warning: 	File has moved from localhost/AnhMinh/?p=209 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-sunda-135-kinh-am/
+22:59:23	Warning: 	Moved Permanently for localhost/AnhMinh/?p=194
+22:59:23	Warning: 	File has moved from localhost/AnhMinh/?p=194 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-bulldog-gang/
+22:59:27	Warning: 	Moved Permanently for localhost/AnhMinh/?p=189
+22:59:27	Warning: 	File has moved from localhost/AnhMinh/?p=189 to http://localhost/AnhMinh/san-pham/mu-bao-hiem-andes-181-kinh-am/
+22:59:36	Warning: 	Moved Permanently for localhost/AnhMinh/?p=260
+22:59:36	Warning: 	File has moved from localhost/AnhMinh/?p=260 to http://localhost/AnhMinh/san-pham/gang-probiker-ngon-cut-gu-inox/
+22:59:41	Warning: 	Moved Permanently for localhost/AnhMinh/?p=244
+22:59:41	Warning: 	File has moved from localhost/AnhMinh/?p=244 to http://localhost/AnhMinh/san-pham/gang-oakley-ngon-cut/
+22:59:42	Warning: 	Moved Permanently for localhost/AnhMinh/?p=233
+22:59:42	Warning: 	File has moved from localhost/AnhMinh/?p=233 to http://localhost/AnhMinh/san-pham/gang-black-hawk-ngon-dai/
+22:59:42	Warning: 	Moved Permanently for localhost/AnhMinh/?p=326
+22:59:42	Warning: 	File has moved from localhost/AnhMinh/?p=326 to http://localhost/AnhMinh/san-pham/balo-chien-thuat-7d/
+22:59:46	Warning: 	Moved Permanently for localhost/AnhMinh/?p=321
+22:59:46	Warning: 	File has moved from localhost/AnhMinh/?p=321 to http://localhost/AnhMinh/san-pham/balo-chien-thuat-3p/
+23:00:02	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/
+23:00:02	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/ to http://localhost/AnhMinh/cua-hang/
+23:00:02	Warning: 	Moved Permanently for localhost/AnhMinh/?p=407
+23:00:02	Warning: 	File has moved from localhost/AnhMinh/?p=407 to http://localhost/AnhMinh/kinh-khoi-la-gi-tim-hieu-kinh-khoi-mu-bao-hiem/
+23:00:02	Warning: 	Moved Permanently for localhost/AnhMinh/?p=363
+23:00:02	Warning: 	File has moved from localhost/AnhMinh/?p=363 to http://localhost/AnhMinh/kinh-trang-guong-mu-bao-hiem-la-gi/
+23:00:04	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=315&_wpnonce=0ba9cb1b0b
+23:00:04	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=315&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=315&_wpnonce=0ba9cb1b0b
+23:00:04	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=321&_wpnonce=0ba9cb1b0b
+23:00:04	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=321&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=321&_wpnonce=0ba9cb1b0b
+23:00:05	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=326&_wpnonce=0ba9cb1b0b
+23:00:05	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=326&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=326&_wpnonce=0ba9cb1b0b
+23:00:06	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=402&_wpnonce=0ba9cb1b0b
+23:00:06	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=402&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=402&_wpnonce=0ba9cb1b0b
+23:00:17	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=392&_wpnonce=0ba9cb1b0b
+23:00:17	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=392&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=392&_wpnonce=0ba9cb1b0b
+23:00:23	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=397&_wpnonce=0ba9cb1b0b
+23:00:23	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=397&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=397&_wpnonce=0ba9cb1b0b
+23:00:23	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=224&_wpnonce=0ba9cb1b0b
+23:00:23	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=224&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=224&_wpnonce=0ba9cb1b0b
+23:00:24	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=233&_wpnonce=0ba9cb1b0b
+23:00:24	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=233&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=233&_wpnonce=0ba9cb1b0b
+23:00:31	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=244&_wpnonce=0ba9cb1b0b
+23:00:31	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=244&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=244&_wpnonce=0ba9cb1b0b
+23:00:41	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=252&_wpnonce=0ba9cb1b0b
+23:00:41	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=252&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=252&_wpnonce=0ba9cb1b0b
+23:00:41	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=260&_wpnonce=0ba9cb1b0b
+23:00:41	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=260&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=260&_wpnonce=0ba9cb1b0b
+23:00:42	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=269&_wpnonce=0ba9cb1b0b
+23:00:42	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=269&_wpnonce=0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=269&_wpnonce=0ba9cb1b0b
+23:00:46	Warning: 	Moved Permanently for localhost/AnhMinh/tu-khoa-san-pham/mu/page/1/
+23:00:46	Warning: 	File has moved from localhost/AnhMinh/tu-khoa-san-pham/mu/page/1/ to http://localhost/AnhMinh/tu-khoa-san-pham/mu/
+23:00:46	Warning: 	Moved Permanently for localhost/AnhMinh/tu-khoa-san-pham/mu-bao-hiem/page/1/
+23:00:46	Warning: 	File has moved from localhost/AnhMinh/tu-khoa-san-pham/mu-bao-hiem/page/1/ to http://localhost/AnhMinh/tu-khoa-san-pham/mu-bao-hiem/
+23:02:45	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=315%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=315%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=315%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=321%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=321%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=321%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=326%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=326%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=326%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=402%26_wpnonce%3D0ba9cb1b0b
+23:02:45	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=402%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=402%26_wpnonce%3D0ba9cb1b0b
+23:03:01	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=392%26_wpnonce%3D0ba9cb1b0b
+23:03:01	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=392%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=392%26_wpnonce%3D0ba9cb1b0b
+23:03:01	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=397%26_wpnonce%3D0ba9cb1b0b
+23:03:01	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=397%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=397%26_wpnonce%3D0ba9cb1b0b
+23:03:02	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=224%26_wpnonce%3D0ba9cb1b0b
+23:03:02	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=224%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=224%26_wpnonce%3D0ba9cb1b0b
+23:03:03	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=233%26_wpnonce%3D0ba9cb1b0b
+23:03:03	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=233%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=233%26_wpnonce%3D0ba9cb1b0b
+23:03:19	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=244%26_wpnonce%3D0ba9cb1b0b
+23:03:19	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=244%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=244%26_wpnonce%3D0ba9cb1b0b
+23:03:19	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=252%26_wpnonce%3D0ba9cb1b0b
+23:03:19	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=252%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=252%26_wpnonce%3D0ba9cb1b0b
+23:03:21	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=260%26_wpnonce%3D0ba9cb1b0b
+23:03:21	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=260%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=260%26_wpnonce%3D0ba9cb1b0b
+23:03:21	Warning: 	Moved Permanently for localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=269%26_wpnonce%3D0ba9cb1b0b
+23:03:21	Warning: 	File has moved from localhost/AnhMinh/cua-hang/page/1/?add_to_wishlist=269%26_wpnonce%3D0ba9cb1b0b to http://localhost/AnhMinh/cua-hang/?add_to_wishlist=269%26_wpnonce%3D0ba9cb1b0b
+
+HTTrack Website Copier/3.49-2 mirror complete in 50 minutes 17 seconds : 1385 links scanned, 1314 files written (83382565 bytes overall) [84019372 bytes received at 27848 bytes/sec], 1.7 requests per connection
+(1 errors, 138 warnings, 0 messages)

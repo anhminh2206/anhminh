@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+localhost	TRUE	/AnhMinh/	FALSE	1999999999	yith_wcwl_session_4986057fa14b4cf6b10136dd1d439c96	%7B%22session_id%22%3A%225c460d3b2d7eb1fe94c8cb640dbe755b%22%2C%22session_expiration%22%3A1635866116%2C%22session_expiring%22%3A1635862516%2C%22cookie_hash%22%3A%228f00f91d34fdc83fab3d1a06d2441125%22%7D
+
